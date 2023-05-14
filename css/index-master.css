@@ -835,4 +835,8 @@ address {
     .taste__header {
         font-size: 22px;
     }
+
+    .taste__content {
+        padding: 30px 5%;
+    }
 }
